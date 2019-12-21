@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Temp
 {
     public class TempArray<T> : IDisposable, IEnumerable<T> where T : new()
     {

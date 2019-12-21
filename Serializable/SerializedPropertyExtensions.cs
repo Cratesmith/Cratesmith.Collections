@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Cratesmith.InspectorTypes
+namespace Cratesmith.Collections.Serializable
 {
     internal static class SerializedPropertyExtensions 
     {

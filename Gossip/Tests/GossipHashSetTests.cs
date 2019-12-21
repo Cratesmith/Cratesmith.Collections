@@ -1,5 +1,6 @@
 ﻿using System;
 using Cratesmith.Collections.Basic;
+using Cratesmith.Collections.Gossip;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools.Constraints;

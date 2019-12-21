@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Gossip
 {
     public class GossipDictionary<TKey, TValue> : IDictionary<TKey, TValue>, IGossipContainer<GossipDictionary<TKey,TValue>>
     {

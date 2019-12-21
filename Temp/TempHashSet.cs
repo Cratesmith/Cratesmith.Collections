@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Temp
 {
     public class TempHashSet<T> : IDisposable, ICollection<T>
     {	

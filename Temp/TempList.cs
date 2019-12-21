@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using Cratesmith.Collections.Basic;
 using UnityEngine;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Temp
 {
 // Temporary list pool for use with unity api
 //

@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Gossip
 {
     public class GossipList<T> : IList<T>, IGossipContainer<GossipList<T>>
     {

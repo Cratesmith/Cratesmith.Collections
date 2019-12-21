@@ -1,6 +1,6 @@
 ﻿using Cratesmith.Collections.Basic;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Gossip
 {
     public struct GossipReporting<TSelf> : IGossipContainer<TSelf>
     {

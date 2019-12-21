@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Temp
 {
     public class TempInstance<T> : IDisposable where T:new()
     {

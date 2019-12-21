@@ -2,18 +2,18 @@
 // Cratesmith 2017
 //
 
+#if UNITY_EDITOR
+using System.Linq;
+using UnityEditor;
+#endif
 using System;
 using System.Collections;
 using System.Collections.Generic;
-#if UNITY_EDITOR
-using System.Linq;
 using System.Reflection;
-using UnityEditor;
-#endif
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Cratesmith.InspectorTypes
+namespace Cratesmith.Collections.Serializable
 {
 
     #region example_usage

@@ -2,7 +2,7 @@
 	"name": "com.cratesmith.collections",
 	"displayName": "Cratesmith.Collections",
 	"description": "Collections used in cratesmith unity projects and other packages, such as Serializable data types and temporary containers.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"unity": "2018.3",
 	"license": "MIT",
 	"repository": {

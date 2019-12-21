@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using Cratesmith.Collections.Gossip;
+using NUnit.Framework;
 
 namespace Cratesmith.Utils.GossipList.Tests
 {

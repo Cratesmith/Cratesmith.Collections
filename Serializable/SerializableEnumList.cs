@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-#if UNITY_EDITOR
-using UnityEditor;
-using System.Linq;
 using System.Reflection;
-#endif
-using Cratesmith.Utils;
+using UnityEditor;
 using UnityEngine;
+#if UNITY_EDITOR
+#endif
 
-namespace Cratesmith.InspectorTypes
+namespace Cratesmith.Collections.Serializable
 {
     public class SerializableEnumList<TEnum, TData> : SerializableEnumListBase, IEnumerable<KeyValuePair<TEnum, TData>> where TEnum:Enum
     {

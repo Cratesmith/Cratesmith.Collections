@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Gossip
 {
     public interface IGossipContainer<out TSelf> : IGossipContainer
     {

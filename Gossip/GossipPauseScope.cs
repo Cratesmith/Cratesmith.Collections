@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Cratesmith.Utils
+namespace Cratesmith.Collections.Gossip
 {
     /// <summary>
     /// A scope for temporarily pausing a IGossipContainer
